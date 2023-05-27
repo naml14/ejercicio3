@@ -1,0 +1,29 @@
+body{
+    background-color: #bdbcba;
+}
+div.azul{
+    background-color: #a9e3fb;
+}
+div.chico{
+    margin-top: 13px;
+    height: 94px;
+    width: 100%;
+}
+div.grande{
+    margin-top: 10px;
+    height: 142px;
+    width: 100%;
+}
+div.mediano{
+    margin-top: 10px;
+    height: 140px;
+    width: calc(50% - 6px);
+}
+div.container{
+    position: relative;
+}
+div.margin-derecho{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
